@@ -1,0 +1,8 @@
+<button
+  type="primary"
+  plain="{{true}}"
+  bind:tap="handleGetUserProflie"
+>
+  获取授权
+</button>
+
